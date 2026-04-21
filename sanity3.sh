@@ -52,9 +52,6 @@ fi
 PROCESS_NAME=(
     postgresql-15
     nginx
-    httpd
-    mysql
-    sshd
     dataiku-healthcheck
 )
 
